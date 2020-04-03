@@ -46,3 +46,5 @@ imgrepo: "https://avatars1.githubusercontent.com/u/27474875?s=96&v=4"
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
 
+
+theme: jekyll-theme-minimal
